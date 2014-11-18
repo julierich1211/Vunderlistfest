@@ -1,7 +1,7 @@
 {
-  "name": "vunderlistfest",
+  "name": "Vunderlistfest",
   "version": "1.0.0",
-  "description": "Vunderlistfest ==============",
+  "description": "",
   "main": "gulpfile.js",
   "directories": {
     "test": "test"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julierich1211/Vunderlistfest.git"
+    "url": "https://github.com/matthiasak/Vunderlistfest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/julierich1211/Vunderlistfest/issues"
+    "url": "https://github.com/matthiasak/Vunderlistfest/issues"
   },
-  "homepage": "https://github.com/julierich1211/Vunderlistfest",
+  "homepage": "https://github.com/matthiasak/Vunderlistfest",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-autoprefixer": "^2.0.0",
