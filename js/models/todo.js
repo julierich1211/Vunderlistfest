@@ -1,4 +1,5 @@
-;(function(window, undefined){
+;
+(function(window, undefined) {
 
     window.app = window.app || {};
 
@@ -7,6 +8,9 @@
             description: "No description given."
         }
     })
+
+    
+
 
     app.Todo = Todo;
 

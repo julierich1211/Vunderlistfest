@@ -111,6 +111,12 @@
     right: 0;
     width: 10em;
 }
+.remove {
+    display: inline-block;
+    float: right;
+    border: .1em solid #efefef;
+    padding: .2em .3em;
+}
 
 /**
  * todo
